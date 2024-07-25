@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  padding: 10px;
+}
+
+.fruits {
+  width: 90%;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  padding: 10px;
+}
+.fruit {
+  color: #ffd569;
+}
+
+.image {
+  width: 50%;
+}
+
+.f {
+  display: flex;
+}
+
+.button {
+  background-color: brown;
+  width: 100px;
+  height: 30px;
+  color: #ffd569;
+  border-width: 0px;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}
